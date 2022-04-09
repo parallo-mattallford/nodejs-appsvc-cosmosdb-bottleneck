@@ -31,3 +31,4 @@ You may want to delete the resources to avoid to continue incurring charges. Use
 Similarly, you can utilize the **Delete resource group** toolbar button on the sample application's resource group to remove all the resources.
 
 edit
+edit2
